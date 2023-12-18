@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item android:title="Rekomendasi"
+        android:id="@+id/rekomendasi"
+        android:icon="@drawable/baseline_recommend_24"/>
+
+    <item android:title="Upload"
+        android:id="@+id/upload"
+        android:icon="@drawable/baseline_file_upload_24"/>
+
+    <item android:title="Disimpan"
+        android:id="@+id/disimpan"
+        android:icon="@drawable/baseline_bookmark_24"/>
+
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_person_24"/>
+</menu>
